@@ -1,0 +1,9 @@
+C:\Users\Sandro Mirianashvili\Desktop\Toe\Toe\bin\Debug\Toe.exe.config
+C:\Users\Sandro Mirianashvili\Desktop\Toe\Toe\bin\Debug\Toe.exe
+C:\Users\Sandro Mirianashvili\Desktop\Toe\Toe\bin\Debug\Toe.pdb
+C:\Users\Sandro Mirianashvili\Desktop\Toe\Toe\obj\Debug\Toe.csprojResolveAssemblyReference.cache
+C:\Users\Sandro Mirianashvili\Desktop\Toe\Toe\obj\Debug\Toe.Form1.resources
+C:\Users\Sandro Mirianashvili\Desktop\Toe\Toe\obj\Debug\Toe.Properties.Resources.resources
+C:\Users\Sandro Mirianashvili\Desktop\Toe\Toe\obj\Debug\Toe.csproj.GenerateResource.Cache
+C:\Users\Sandro Mirianashvili\Desktop\Toe\Toe\obj\Debug\Toe.exe
+C:\Users\Sandro Mirianashvili\Desktop\Toe\Toe\obj\Debug\Toe.pdb
