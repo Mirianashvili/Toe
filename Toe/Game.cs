@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
+﻿using System.Windows.Forms;
 
 namespace Toe
 {
@@ -13,6 +8,7 @@ namespace Toe
         Button[,] boardUI;
         const int BOARD_SIZE = 3;
         bool let;
+        
         public Game(Button[,] boardUI)
         {
             this.board = new int[BOARD_SIZE, BOARD_SIZE];

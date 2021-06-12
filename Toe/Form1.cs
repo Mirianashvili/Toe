@@ -1,18 +1,11 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Toe
 {
     public partial class Form1 : Form
     {
-        Game myGame;
+        Game game;
         public Form1()
         {
             InitializeComponent();
@@ -31,12 +24,12 @@ namespace Toe
             boardUI[2,1] = button8;
             boardUI[2,2] = button9;
             
-            myGame = new Game(boardUI); 
+            game = new Game(boardUI); 
         }
 
         private void button10_Click(object sender, EventArgs e)
         {
-            myGame.Init();
+            game.Init();
         }
 
         private void BoardButtonsClick(object sender, EventArgs e)
@@ -44,7 +37,7 @@ namespace Toe
             Button ClickedButton = (Button)sender;
             int x = Convert.ToInt32(ClickedButton.Tag.ToString()[0]) - 48;
             int y = Convert.ToInt32(ClickedButton.Tag.ToString()[1]) - 48;
-            myGame.Tick(x, y);
+            game.Tick(x, y);
         }
         
     }

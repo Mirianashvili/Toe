@@ -1,18 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Toe
+﻿namespace Toe
 {
     class Player
     {
         bool player;
+        
         public Player(bool player)
         {
             this.player = player;
         }
+        
         public string PlayerSpecialIcon
         {
             get
@@ -20,6 +16,7 @@ namespace Toe
                 return (player) ? ("X") : ("O");
             }
         }
+        
         public int PlayerSpecialValue
         {
             get

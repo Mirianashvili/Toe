@@ -7,3 +7,12 @@ C:\Users\Sandro Mirianashvili\Desktop\Toe\Toe\obj\Debug\Toe.Properties.Resources
 C:\Users\Sandro Mirianashvili\Desktop\Toe\Toe\obj\Debug\Toe.csproj.GenerateResource.Cache
 C:\Users\Sandro Mirianashvili\Desktop\Toe\Toe\obj\Debug\Toe.exe
 C:\Users\Sandro Mirianashvili\Desktop\Toe\Toe\obj\Debug\Toe.pdb
+C:\Users\Sandro\Desktop\Projects\Toe\Toe\bin\Debug\Toe.exe.config
+C:\Users\Sandro\Desktop\Projects\Toe\Toe\bin\Debug\Toe.exe
+C:\Users\Sandro\Desktop\Projects\Toe\Toe\bin\Debug\Toe.pdb
+C:\Users\Sandro\Desktop\Projects\Toe\Toe\obj\Debug\Toe.csprojAssemblyReference.cache
+C:\Users\Sandro\Desktop\Projects\Toe\Toe\obj\Debug\Toe.Form1.resources
+C:\Users\Sandro\Desktop\Projects\Toe\Toe\obj\Debug\Toe.Properties.Resources.resources
+C:\Users\Sandro\Desktop\Projects\Toe\Toe\obj\Debug\Toe.csproj.GenerateResource.cache
+C:\Users\Sandro\Desktop\Projects\Toe\Toe\obj\Debug\Toe.exe
+C:\Users\Sandro\Desktop\Projects\Toe\Toe\obj\Debug\Toe.pdb
